@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/conditioningseeds/static/css/main.073c9b0a.css",
+    "main.js": "/conditioningseeds/static/js/main.692aaa8f.js",
+    "static/js/787.f185c615.chunk.js": "/conditioningseeds/static/js/787.f185c615.chunk.js",
+    "static/media/logo.svg": "/conditioningseeds/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/conditioningseeds/index.html",
+    "main.073c9b0a.css.map": "/conditioningseeds/static/css/main.073c9b0a.css.map",
+    "main.692aaa8f.js.map": "/conditioningseeds/static/js/main.692aaa8f.js.map",
+    "787.f185c615.chunk.js.map": "/conditioningseeds/static/js/787.f185c615.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.692aaa8f.js"
+  ]
+}
